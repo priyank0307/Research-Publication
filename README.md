@@ -1,7 +1,6 @@
 # Automated Ticket Categorization Using BERT and Azure ML
 
 [![PDF Document](https://img.shields.io/badge/Document-PDF-red.svg)](./conference_paper.pdf)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official repository hosting the conference paper titled **"Automated Ticket Categorization Using BERT and Azure ML"**, authored by Priyank Raj, Raj Aryan, and Dr. Andhe Pallavi from RNSIT, Bangalore.
 
