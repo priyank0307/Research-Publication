@@ -1,4 +1,4 @@
-# Automated Ticket Categorization Using BERT and Azure ML    
+# Automated Ticket Categorization Using BERT and Azure ML     
 
 [![PDF Document](https://img.shields.io/badge/Document-PDF-red.svg)](./conference_paper.pdf)
 
